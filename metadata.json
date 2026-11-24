@@ -1,0 +1,6 @@
+{
+  "name": "Umbra Atelier — Moda Gótica & Alfaiataria Sombria",
+  "description": "Loja de roupas góticas autorais com peças em lã pesada, veludo estruturado, renda chantilly e calçados em couro legítimo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
