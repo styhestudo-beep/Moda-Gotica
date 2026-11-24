@@ -39,14 +39,14 @@ export function AtelierSection({
                 Vestuário gótico contra o descarte e a especulação de preço
               </h2>
               <p className="text-[15px] text-zinc-400 leading-[1.7]">
-                Fundada em São Paulo por costureiras e frequentadores da cena subterrânea, a Umbra Atelier nasceu para devolver o vestuário gótico às suas raízes: DIY, brechó, reaproveitamento e recusa ao consumismo vazio. Trabalhamos com tecidos de ponta de estoque e garimpo curado, mantendo preços entre R$ 35 e R$ 159 e oferecendo conserto gratuito vitalício na nossa oficina.
+                Fundada em São Paulo por costureiras e frequentadores da cena subterrânea, a Umbra Atelier nasceu para devolver o vestuário gótico às suas raízes: DIY, brechó, reaproveitamento e recusa ao consumismo vazio. Trabalhamos com tecidos de ponta de estoque e garimpo curado, mantendo preços entre R$ 29 e R$ 159 e oferecendo conserto gratuito vitalício na nossa oficina.
               </p>
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 pt-6 border-t border-white/[0.08]">
               <div>
                 <div className="font-display text-2xl font-semibold text-[#F4F4F5] tabular-nums">
-                  R$ 35 – 159
+                  R$ 29 – 159
                 </div>
                 <div className="mt-1 text-xs text-zinc-400 leading-relaxed">
                   Sem margem de grife: preço honesto para tornar o estilo acessível.

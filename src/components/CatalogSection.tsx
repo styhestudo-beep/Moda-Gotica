@@ -56,7 +56,7 @@ export function CatalogSection({
         </div>
 
         <p className="text-sm text-zinc-400 max-w-md">
-          Compre apenas o que você realmente vai usar por anos. Valores entre R$ 35 e R$ 159, grade do PP ao XGG e conserto gratuito na oficina.
+          Compre apenas o que você realmente vai usar por anos. Valores entre R$ 29 e R$ 159, grade do PP ao XGG e conserto gratuito na oficina.
         </p>
       </div>
 

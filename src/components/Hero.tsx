@@ -18,7 +18,7 @@ export function Hero({ onExploreCatalog, onExploreAtelier }: HeroProps) {
         <div className="bg-[#131317] border-b border-white/[0.06] px-6 py-2">
           <div className="mx-auto max-w-[1280px] flex items-center justify-between gap-4 text-xs text-zinc-300">
             <span className="truncate">
-              Oficina de upcycling e garimpo · Peças de R$ 35 a R$ 159 · Conserto gratuito vitalício
+              Oficina de upcycling e garimpo · Peças de R$ 29 a R$ 159 · Conserto gratuito vitalício
             </span>
             <button
               type="button"
@@ -74,7 +74,7 @@ export function Hero({ onExploreCatalog, onExploreAtelier }: HeroProps) {
 
             <div className="pt-6 border-t border-white/[0.08] grid grid-cols-3 gap-4 text-xs text-zinc-400">
               <div>
-                <div className="text-[#F4F4F5] font-medium tabular-nums">R$ 35 – R$ 159</div>
+                <div className="text-[#F4F4F5] font-medium tabular-nums">R$ 29 – R$ 159</div>
                 <div className="mt-0.5 text-zinc-500">Preço justo real</div>
               </div>
               <div>
